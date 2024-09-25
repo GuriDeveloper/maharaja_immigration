@@ -5,7 +5,7 @@ function Navbar() {
     return (
         <div className={styles.main}>
             <img className={styles.logo} src={logo} alt='logo' />
-            <span className={styles.heading}>Maharaha Immigration</span>
+            <span className={styles.heading}>Maharaja Immigration</span>
         </div>
     )
 }
